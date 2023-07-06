@@ -21,9 +21,6 @@ coverY: 0
 
 * **(Unlisted spaces)** only accessible by the URL,
 * **(Share links)** publish docs only accessible by people with a unique link, which can be revoked at any time.
-
-
-
 *   **(Advanced customization)** customize logo, theme, colors and fonts to create branded docs.
 
 
@@ -44,6 +41,10 @@ coverY: 0
 
 
 ### _Member Management_
+
+
+
+![](../.gitbook/assets/image.png)
 
 
 
