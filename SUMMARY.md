@@ -1,11 +1,11 @@
 # Table of contents
 
 * [👋 GitBook](README.md)
-* [🤖 Pricing Policy](pricing-policy.md)
-* [🍀 Plus vs Pro??](plus-vs-pro.md)
 
 ## Overview
 
+* [🤖 Pricing Policy](overview/pricing-policy.md)
+* [🍀 Plus vs Pro ??](overview/plus-vs-pro.md)
 * [💡 Untitled](overview/untitled.md)
 * [✨ Our Features](overview/our-features.md)
 
