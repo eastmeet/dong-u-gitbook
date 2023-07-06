@@ -42,9 +42,16 @@ coverY: 0
 
 ### _Member Management_
 
+<figure><img src="../.gitbook/assets/Screenshot 2023-07-06 at 17.12.45.png" alt=""><figcaption></figcaption></figure>
 
 
-![](../.gitbook/assets/image.png)
+
+
+
+*
+* **(Advanced roles)** on top of basic roles, you can assign reviewer and commenter roles.
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 
 
