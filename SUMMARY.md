@@ -3,11 +3,11 @@
 ## API Reference
 
 * [Getting Started](README.md)
-* [🖥 For Developers](api-reference/for-developers.md)
+* [🖥 For Developers](use-cases/for-developers.md)
 
 ## Overview
 
-* [Pricing Policy](overview/pricing-policy.md)
+* [Pricing Policy](overview/pricing-policy/README.md)
   * [Plus vs Pro ??](overview/plus-vs-pro.md)
 
 ## Product Guides

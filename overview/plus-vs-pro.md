@@ -28,18 +28,18 @@ coverY: 0
 
 
 
-    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 *   (PDF export) easily export pages of your content in PDF format.&#x20;
 
     <figure><img src="../.gitbook/assets/Screenshot 2023-07-06 at 13.46.57.png" alt=""><figcaption></figcaption></figure>
 
 ### _Integrations_
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 ### _Data & insights_
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
