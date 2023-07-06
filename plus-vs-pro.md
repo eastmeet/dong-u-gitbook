@@ -20,16 +20,16 @@ coverY: 0
 
 * **(Unlisted spaces) only accessible by the URL,**
 * &#x20;
-* &#x20;![](.gitbook/assets/image.png)
+* &#x20;![](<.gitbook/assets/image (5).png>)
 * **(Advancded customization)** customize logo, theme, colors and fonts to create branded docs.
-* &#x20;![](<.gitbook/assets/image (4).png>)\
+* &#x20;![](<.gitbook/assets/image (3).png>)\
 
 
 
 
 ### _Integrations_
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### _Data & insights_
 
