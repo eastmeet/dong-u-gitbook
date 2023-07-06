@@ -1,22 +1,12 @@
 # 👋 GitBook
 
 {% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
+**GitBook URL:**&#x20;
+
+[https://dongwoos-gitbook.gitbook.io/gitbook-research/](https://dongwoos-gitbook.gitbook.io/gitbook-research/)
 {% endhint %}
 
-## \`\`\`
 
-
-
-{% code title="" overflow="wrap" lineNumbers="true" %}
-```java
-//asd
-
-
-```
-{% endcode %}
-
-##
 
 ## Overview
 
