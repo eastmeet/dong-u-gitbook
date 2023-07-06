@@ -15,7 +15,7 @@ coverY: 0
 
 
 
-### _공유 및 커스토마이징 기능 (Sharing and customization)_
+### _<mark style="background-color:green;">공유 및 커스토마이징 기능 (Sharing and customization)</mark>_
 
 <figure><img src="../.gitbook/assets/image-2.png" alt=""><figcaption></figcaption></figure>
 
@@ -25,45 +25,63 @@ coverY: 0
 
 
 
-    <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 *   (PDF export) easily export pages of your content in PDF format.&#x20;
 
     <figure><img src="../.gitbook/assets/Screenshot 2023-07-06 at 13.46.57.png" alt=""><figcaption></figcaption></figure>
 
-### _Integrations_
+### _<mark style="background-color:green;">Integrations</mark>_
 
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-### _Data & insights_
+### _<mark style="background-color:green;">Data & insights</mark>_
 
 <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
+* (Content feedback) understand how useful your content is by giving your users the chance to rate each page.
+*
+* ![](<../.gitbook/assets/image (10).png>)
 
 
-### _Member Management_
+
+
+
+* (GitBook insights & analytics)
+
+### <mark style="background-color:green;">Member Management</mark>
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-07-06 at 17.12.45.png" alt=""><figcaption></figcaption></figure>
 
-
-
-
-
-*
+* (Guests)&#x20;
+* (Basic roles)&#x20;
 * **(Advanced roles)** on top of basic roles, you can assign reviewer and commenter roles.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+* (Teams)
 
 
 
-### _Security & Compliance_
+
+
+### _<mark style="background-color:green;">Security & Compliance</mark>_
 
 
 
-### _Support_
+### _<mark style="background-color:green;">Support</mark>_
 
 <div align="center" data-full-width="false">
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-07-06 at 13.33.48.png" alt=""><figcaption></figcaption></figure>
 
 </div>
+
+* (Priority support) faster response times to support tickets and questions.
+*
+
+
+
+
+
+
 
