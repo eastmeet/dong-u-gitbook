@@ -1,13 +1,14 @@
 # Table of contents
 
-* [👋 GitBook](README.md)
+## API Reference
+
+* [Getting Started](README.md)
+* [🖥 For Developers](api-reference/for-developers.md)
 
 ## Overview
 
-* [🤖 Pricing Policy](overview/pricing-policy/README.md)
-  * [🍀 Plus vs Pro ??](overview/pricing-policy/plus-vs-pro.md)
-* [💡 Untitled](overview/untitled.md)
-* [✨ Our Features](overview/our-features.md)
+* [Pricing Policy](overview/pricing-policy.md)
+  * [Plus vs Pro ??](overview/plus-vs-pro.md)
 
 ## Product Guides
 
@@ -19,8 +20,3 @@
 * [🛠 Getting set up](fundamentals/getting-set-up/README.md)
   * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
   * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
-
-## Use Cases
-
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥 For Developers](use-cases/for-developers.md)
