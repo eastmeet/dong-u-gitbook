@@ -17,20 +17,20 @@ coverY: 0
 
 ### _공유 및 커스토마이징 기능 (Sharing and customization)_
 
-<figure><img src="../.gitbook/assets/image-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-2.png" alt=""><figcaption></figcaption></figure>
 
 * **(Unlisted spaces) only accessible by the URL,**
 * &#x20;
-* &#x20;![](<../.gitbook/assets/image (5).png>)
+* &#x20;![](<../../.gitbook/assets/image (5).png>)
 * **(Advancded customization)** customize logo, theme, colors and fonts to create branded docs.
-* &#x20;![](<../.gitbook/assets/image (3).png>)\
+* &#x20;![](<../../.gitbook/assets/image (3).png>)\
 
 
 
 
 ### _Integrations_
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### _Data & insights_
 
@@ -50,7 +50,7 @@ coverY: 0
 
 <div align="center" data-full-width="false">
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-07-06 at 13.33.48.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-07-06 at 13.33.48.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

@@ -4,8 +4,8 @@
 
 ## Overview
 
-* [🤖 Pricing Policy](overview/pricing-policy.md)
-* [🍀 Plus vs Pro ??](overview/plus-vs-pro.md)
+* [🤖 Pricing Policy](overview/pricing-policy/README.md)
+  * [🍀 Plus vs Pro ??](overview/pricing-policy/plus-vs-pro.md)
 * [💡 Untitled](overview/untitled.md)
 * [✨ Our Features](overview/our-features.md)
 
