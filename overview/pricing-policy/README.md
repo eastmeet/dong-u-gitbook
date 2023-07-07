@@ -5,7 +5,7 @@ coverY: 0
 
 # Pricing Policy
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>price policy</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>price policy</p></figcaption></figure>
 
 
 
@@ -21,13 +21,5 @@ coverY: 0
 
 \*1USD = 1,300KRW
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
-
-
-
-
-
-
-
-<table><thead><tr><th width="194">1USD = 1,300KRW</th><th width="103">Personal</th><th width="161">Plus</th><th width="161">Pro</th><th>Enterprise</th></tr></thead><tbody><tr><td>USD</td><td>0.00</td><td>$8/month</td><td>$15/m</td><td>-</td></tr><tr><td>KRW</td><td>-</td><td>₩10,400/month</td><td>₩19,500/month</td><td>-</td></tr></tbody></table>
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
