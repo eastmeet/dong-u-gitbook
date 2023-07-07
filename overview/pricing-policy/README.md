@@ -15,11 +15,11 @@ coverY: 0
 
 \*1USD = 1,300KRW
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p><a href="https://app.gitbook.com/o/ENtDVkwNTW2ljPVQjvCq/s/NChuFaoJZGEFcv2hjNGq/~/changes/15/overview/plus-vs-pro">🍀Plus vs Pro ??</a>monthly price </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (2).png" alt=""><figcaption><p><a href="https://app.gitbook.com/o/ENtDVkwNTW2ljPVQjvCq/s/NChuFaoJZGEFcv2hjNGq/~/changes/15/overview/plus-vs-pro">🍀Plus vs Pro ??</a>monthly price </p></figcaption></figure>
 
 <table><thead><tr><th width="100">-</th><th width="100">Personal</th><th width="114">Plus</th><th>Pro</th><th>Enterprise</th></tr></thead><tbody><tr><td>USD</td><td>free</td><td>$8</td><td>$12.50 + $99</td><td>-</td></tr><tr><td>KRW</td><td>free</td><td>₩8,710</td><td>₩16,250 + ₩128,700</td><td>-</td></tr><tr><td>SUM</td><td>free</td><td>₩8,710</td><td>₩144,950</td><td>Contact</td></tr></tbody></table>
 
 \*1USD = 1,300KRW
 
-<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 

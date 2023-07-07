@@ -8,7 +8,7 @@
 ## Overview
 
 * [Pricing Policy](overview/pricing-policy/README.md)
-  * [Personal vs Plus vs Pro ??](overview/pricing-policy/personal-vs-plus-vs-pro.md)
+  * [Personal vs Plus vs Pro ??](overview/plus-vs-pro.md)
 
 ## Product Guides
 
